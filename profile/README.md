@@ -10,7 +10,7 @@ We build layout tools, React frameworks for command-line interfaces, Ink compone
 
 ## CLI framework
 
-**[Tinky](https://byteland.app/opensource/tinky)** is a React framework for command-line interfaces, with layout powered by Taffy.
+**[Tinky](https://github.com/ByteLandTechnology/tinky)** is a React framework for command-line interfaces, with layout powered by Taffy.
 
 ## Ink components
 
@@ -20,7 +20,7 @@ Reusable components and tools for Ink applications:
 | --- | --- |
 | [ink-scroll-view](https://github.com/ByteLandTechnology/ink-scroll-view) | Scrollable views |
 | [ink-scroll-list](https://github.com/ByteLandTechnology/ink-scroll-list) | Scrollable lists |
-| [ink-scroll-bar](https://byteland.app/opensource/ink-scroll-bar) | Scroll bars |
+| [ink-scroll-bar](https://github.com/ByteLandTechnology/ink-scroll-bar) | Scroll bars |
 | [ink-multiline-input](https://github.com/ByteLandTechnology/ink-multiline-input) | Multi-line text input |
 | [ink-canvas](https://github.com/ByteLandTechnology/ink-canvas) | Render Ink apps in the browser |
 
@@ -28,7 +28,7 @@ Reusable components and tools for Ink applications:
 
 - **[ghidra-bridge](https://github.com/ByteLandTechnology/ghidra-bridge)** connects Ghidra to MCP and WebSocket JSON-RPC for analysis and automation.
 - **[ghidra-mcp](https://github.com/ByteLandTechnology/ghidra-mcp)** provides headless Ghidra analysis for MCP clients, including decompilation, symbol inspection, and program modification.
-- **[headless-ghidra](https://byteland.app/opensource/headless-ghidra)** is part of our headless Ghidra tooling. Visit the project page for details.
+- **[headless-ghidra](https://github.com/ByteLandTechnology/headless-ghidra)** provides Ghidra skills for agents, from intake to decompilation, with reviewable artifacts at each phase.
 
 ## Get involved
 
